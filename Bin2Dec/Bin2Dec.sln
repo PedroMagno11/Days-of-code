@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bin2Dec", "Bin2Dec\Bin2Dec.csproj", "{D83DD353-3748-4E5D-9334-25C10F5740C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bind2DecUnitTests", "Bind2DecUnitTests\Bind2DecUnitTests.csproj", "{7FB0E1EA-DA07-4A27-B6A8-28665FBC862A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D83DD353-3748-4E5D-9334-25C10F5740C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83DD353-3748-4E5D-9334-25C10F5740C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83DD353-3748-4E5D-9334-25C10F5740C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83DD353-3748-4E5D-9334-25C10F5740C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB0E1EA-DA07-4A27-B6A8-28665FBC862A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB0E1EA-DA07-4A27-B6A8-28665FBC862A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB0E1EA-DA07-4A27-B6A8-28665FBC862A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB0E1EA-DA07-4A27-B6A8-28665FBC862A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98BE8E94-0D1B-4337-8481-8DF4CEF5E45E}
+	EndGlobalSection
+EndGlobal
