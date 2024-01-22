@@ -1,6 +1,5 @@
-﻿using Bin2Dec.Entidates;
+﻿using Bin2Dec.Entidades;
 using Bin2Dec.Exceptions;
-using System.Globalization;
 using System.Text.RegularExpressions;
 
 namespace Bin2Dec.Menu;

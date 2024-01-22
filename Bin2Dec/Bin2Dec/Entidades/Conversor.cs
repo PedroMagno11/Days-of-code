@@ -1,9 +1,9 @@
 ﻿using Bin2Dec.Exceptions;
 using System.Text.RegularExpressions;
 
-namespace Bin2Dec.Entidates;
+namespace Bin2Dec.Entidades;
 
-internal static class Conversor
+public static class Conversor
 {
     public static int BinarioParaDecimal(string numeroBinario)
     {

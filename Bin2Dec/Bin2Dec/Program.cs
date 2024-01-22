@@ -1,7 +1,7 @@
 ﻿using Bin2Dec.Exceptions;
 using Bin2Dec.Menu;
 
-internal class Program
+public class Program
 {
     private static void Main(string[] args)
     {
