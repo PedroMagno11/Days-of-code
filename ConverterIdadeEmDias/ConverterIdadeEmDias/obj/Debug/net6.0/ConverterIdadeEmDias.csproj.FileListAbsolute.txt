@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\obj\Debug\net6.0\ConverterIdadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\obj\Debug\net6.0\ConverterIdadeEmDias.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\obj\Debug\net6.0\ConverterIdadeEmDias.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\obj\Debug\net6.0\ConverterIdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\obj\Debug\net6.0\ConverterIdadeEmDias.sourcelink.json
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\bin\Debug\net6.0\ConverterIdadeEmDias.exe
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\bin\Debug\net6.0\ConverterIdadeEmDias.deps.json
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\bin\Debug\net6.0\ConverterIdadeEmDias.runtimeconfig.json
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\bin\Debug\net6.0\ConverterIdadeEmDias.dll
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\bin\Debug\net6.0\ConverterIdadeEmDias.pdb
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\obj\Debug\net6.0\ConverterIdadeEmDias.dll
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\obj\Debug\net6.0\refint\ConverterIdadeEmDias.dll
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\obj\Debug\net6.0\ConverterIdadeEmDias.pdb
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\obj\Debug\net6.0\ConverterIdadeEmDias.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documentos\Ambiente de Desenvolvimento\100days-of-code\ConverterIdadeEmDias\ConverterIdadeEmDias\obj\Debug\net6.0\ref\ConverterIdadeEmDias.dll
