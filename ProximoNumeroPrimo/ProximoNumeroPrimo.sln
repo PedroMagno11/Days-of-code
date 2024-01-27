@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProximoNumeroPrimo", "ProximoNumeroPrimo\ProximoNumeroPrimo.csproj", "{A345EC7C-2E4B-4185-B7A0-15B906BED636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProximoNumeroPrimoUnitTests", "ProximoNumeroPrimoUnitTests\ProximoNumeroPrimoUnitTests.csproj", "{F69A8B25-52E1-494A-90D8-875C9164163B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A345EC7C-2E4B-4185-B7A0-15B906BED636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A345EC7C-2E4B-4185-B7A0-15B906BED636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A345EC7C-2E4B-4185-B7A0-15B906BED636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A345EC7C-2E4B-4185-B7A0-15B906BED636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69A8B25-52E1-494A-90D8-875C9164163B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69A8B25-52E1-494A-90D8-875C9164163B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69A8B25-52E1-494A-90D8-875C9164163B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69A8B25-52E1-494A-90D8-875C9164163B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDCE11BD-26CE-4396-AD6B-C8FB034ED191}
+	EndGlobalSection
+EndGlobal
