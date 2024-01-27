@@ -10,11 +10,11 @@ try
     int posicao = Buscador.ProcurandoNemo(frase);
     if(posicao == 0)
     {
-        Console.WriteLine("Não consigo encontrar o Nemo");
+        Console.WriteLine("Não consigo encontrar o Nemo :(");
     }
     else
     {
-        Console.WriteLine($"O Nemo foi encontrado na posição {posicao}");
+        Console.WriteLine($"O Nemo foi encontrado na posição {posicao}!");
     }
 }
 catch(ArgumentException ex)
