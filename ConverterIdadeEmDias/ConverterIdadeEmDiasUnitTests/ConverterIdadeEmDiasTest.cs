@@ -33,5 +33,11 @@ namespace ConverterIdadeEmDiasUnitTests
             int actual = Conversor.IdadeEmDias(23);
             Assert.Equal(expected, actual);
         }
+
+        [Fact]
+        public void AnosEmDiasNegativo()
+        {
+            Assert.Throws<ArgumentException>(() => Conversor.IdadeEmDias(-2));
+        }
     }
 }

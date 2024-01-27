@@ -8,7 +8,7 @@ try
     int diasDeVida = Conversor.IdadeEmDias(idade);
     Console.WriteLine($"Até o momento, você teve {diasDeVida} dias de vida.");
 }
-catch(Exception ex)
+catch(ArgumentException ex)
 {
     Console.WriteLine(ex.Message);
 }
